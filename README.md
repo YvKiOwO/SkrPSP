@@ -1,12 +1,12 @@
 # SkrPSP
-- skrPSP: a save manager + file browser for PSP, written in C (WIP)
+**skrPSP:** a save manager + file browser for PSP, written in C (WIP)
 
-[x] hello world on real hardware
+- [x] hello world on real hardware
 
-[ ] splash screen
+- [ ] splash screen
 
-[ ] file browser
+- [ ] file browser
 
-[ ] save manager
+- [ ] save manager
 
 ![firstWIP](images/IMG_2862.jpg)
